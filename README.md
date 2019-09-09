@@ -1,5 +1,7 @@
 # WebSocket Debug Tool
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zanjs/websocket-debug-tool.svg)](https://greenkeeper.io/)
+
 A tool to debug websocket/sockjs/stomp.
 
 ![](screenshot.png)
